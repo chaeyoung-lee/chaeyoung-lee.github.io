@@ -3,23 +3,26 @@ I am an incoming Ph.D. student in Computer Science at Stanford, interested in th
 
 I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) Group advised by [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
 
-## Current Research
-
-**Junkyard Computing:** Manufacturing electronic devices is an energy-intensive process that dominates the lifetime carbon footprint of consumer electronics like smartphones. Options for dealing with end-of-life phones are limited, leading to a stockpile of environmentally costly, miniature computers. This is particularly unfortunate given that smartphones contain many components that could be useful for other applications—CPUs, GPUs, microphones, etc. Junkyard computing studies the repurposing of unwanted smartphones for a wide range of non-consumer applications. We are exploring two pathways: Datacenters and IoT. In the first, old phones are repurposed as general-purpose cloud compute nodes. In the second, they are redeployed as remote sensors. 
-
 ## Publications
-[Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon\*\*](https://dl.acm.org/doi/10.1145/3575693.3575710)<br/>
-**Jennifer Switzer**, Gabriel Marcano, Ryan Kastner, Pat Pannuto<br/>
-_International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)._<br/>
-\*\*This paper won a Distinguished Paper Award. 
+[CLEval: Character-Level Evaluation for Text Detection and Recognition Task](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html)<br/>
+Y. Baek, D. Nam, S. Park, J. Lee, S. Shin, J. Baek, **C. Lee**, and H. Lee<br/>
+CVPR Text and Documents in the Deep Learning Era Workshop 2020
 
-[Renée: New Life for Old Phones](https://ieeexplore.ieee.org/document/9695989)<br/>
-**J. Switzer**, E. Siu, S. Ramesh, R. Hu, E. Zadorian and R. Kastner<br/>
-IEEE Embedded Systems Letters. 2022.
+[TedEval: A Fair Evaluation Metric for Scene Text Detectors](https://arxiv.org/abs/1907.01227)<br/>
+**C. Lee**, Y. Baek, and H. Lee<br/>
+ICDAR Workshop on Industrial Applications of Document Analysis and Recognition 2019
+
+[Conditional WaveGAN](https://arxiv.org/abs/1809.10636)<br/>
+**C. Lee**, A. Toffy, G. Jung, and W. Han<br/>
+TF Korea Conference 2018
+
+Diagnosis Method and Apparatus for Neurodegenerative
+**C. Lee**
+Korea Patent (KR 1019363020000) 2019
 
 ## Contact
 chae[at]stanford[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)<br/>
-[CV as of Sept 2022](https://github.com/chaeyoung-lee/chaeyoung-lee.github.io/blob/main/documents/cv.pdf)<br/>
+[CV](https://github.com/chaeyoung-lee/chaeyoung-lee.github.io/blob/main/documents/cv.pdf)<br/>
 
 Last updated 07-07-2023.
