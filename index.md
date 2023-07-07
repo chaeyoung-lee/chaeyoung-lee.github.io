@@ -1,7 +1,7 @@
 ## About me
 I am an incoming Ph.D. student in Computer Science at Stanford, interested in the intersection of mobile embedded systems and human-computer interaction. I am currently looking for a research advisor for my first-year rotation.
 
-I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) Group advised by [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
+I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) group advised by [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
 
 ## Publications
 [CLEval: Character-Level Evaluation for Text Detection and Recognition Task](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html)<br/>
