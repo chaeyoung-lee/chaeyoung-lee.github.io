@@ -16,7 +16,7 @@ ICDAR Workshop on Industrial Applications of Document Analysis and Recognition 2
 **C. Lee**, A. Toffy, G. Jung, and W. Han<br/>
 TF Korea Conference 2018
 
-Diagnosis Method and Apparatus for Neurodegenerative<br/>
+Diagnosis Method and Apparatus for Neurodegenerative Diseases Based on Deep Learning Network<br/>
 **C. Lee**<br/>
 Korea Patent (KR 1019363020000) 2019
 
