@@ -20,6 +20,6 @@ IEEE Embedded Systems Letters. 2022.
 ## Contact
 chae[at]stanford[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)<br/>
-[CV as of Sept 2022](https://github.com/chaeyoung-lee/chaeyounglee.com/blob/main/documents/cv.pdf)<br/>
+[CV as of Sept 2022](https://github.com/chaeyoung-lee/chaeyoung-lee.github.io/blob/main/documents/cv.pdf)<br/>
 
 Last updated 07-07-2023.
