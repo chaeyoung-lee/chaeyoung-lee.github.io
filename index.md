@@ -1,7 +1,7 @@
 ## About me
-I am an incoming Ph.D. student in Computer Science at Stanford, interested in the intersection of mobile embedded systems and human-computer interaction. I am currently looking for a research advisor for my first-year rotation.
+I am a first-year Ph.D. student in Computer Science at Stanford, interested in the intersection of mobile embedded systems and energy efficient computing. I am currently advised by Professor [Zerina Kapetanovic](https://www.zerinakapetanovic.com/).
 
-I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) group advised by [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
+I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) group advised by Professor [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
 
 ## Publications
 [CLEval: Character-Level Evaluation for Text Detection and Recognition Task](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html)<br/>
@@ -25,4 +25,4 @@ chae[at]stanford[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)<br/>
 [CV](https://github.com/chaeyoung-lee/chaeyoung-lee.github.io/blob/main/documents/cv.pdf)<br/>
 
-Last updated 07-07-2023.
+Last updated 10-27-2023.
