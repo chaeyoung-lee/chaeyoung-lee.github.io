@@ -4,6 +4,10 @@ I am a first-year Ph.D. student in Computer Science at Stanford, interested in t
 I received a B.S. in Electrical Engineering & Computer Science at Yale (2023), where I was part of the [Yale Efficient Computing Lab](http://www.yecl.org/) group advised by Professor [Lin Zhong](http://www.linzhong.org/). My research was on 5G Cloud RAN.
 
 ## Publications
+HyperCam: Low-power Onboard Computer Vision for IoT Cameras<br/>
+**C. Lee**, M. Fite, T. Rao, L. Yi, S. Achour, and Z. Kapetanovic<br/>
+Under Review
+
 [CLEval: Character-Level Evaluation for Text Detection and Recognition Task](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html)<br/>
 Y. Baek, D. Nam, S. Park, J. Lee, S. Shin, J. Baek, **C. Lee**, and H. Lee<br/>
 CVPR Text and Documents in the Deep Learning Era Workshop 2020
