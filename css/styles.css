@@ -22,11 +22,6 @@ summary {
 	margin-bottom: 16px;
 }
 
-li {
-	font-size: 17px;
-	margin-bottom: 8px;
-  }
-
 .round {
 	border-radius: 50%;
 	overflow: hidden;
