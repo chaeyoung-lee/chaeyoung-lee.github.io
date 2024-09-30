@@ -1,228 +1,44 @@
-
 ---
 layout: default
 title: Home
 ---
 
-<!DOCTYPE html>
-<!-- vim: set ts=2 sts=2 sw=2 noet: -->
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="keywords"
-            content="Chaeyoung Lee, chae young lee, Chae Young Lee, chaeyoung">
-        <meta name="author" content="Chae Young Lee">
-        <meta name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no">
+# Chae Young Lee (이채영)
 
-        <link rel="stylesheet" href="/css/bootstrap-4.6.1.min.css"
-            integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn">
+Ph.D. Candidate, Computer Science  
+Stanford University  
+[Email](mailto:chae@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/cylee-cs/) | [GitHub](https://github.com/chaeyoung-lee)
+[Publications](#publications) | [CV](/assets/cv.pdf)
 
-        <!-- 
-  <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-  -->
+<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%;">
 
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
-            rel="stylesheet">
+## About Me
 
-        <link href="/css/timeline.css" rel="stylesheet" type="text/css" />
-        <link href="/css/styles.css" rel="stylesheet" type="text/css" />
+I am a second-year Ph.D. candidate in Computer Science at Stanford, co-advised by Professors [Zerina Kapetanovic](https://www.zerinakapetanovic.com/) and [Sara Achour](https://www.sara-achour.me/). My research interest is in energy-efficient machine learning and mobile embedded systems.
 
-        <script src="/js/jquery-5.6.1.slim.min.js"
-            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"></script>
+Before Stanford, I received a B.S. in Electrical Engineering & Computer Science at Yale, where I worked with Professor [Lin Zhong](http://www.linzhong.org/) on 5G Cloud RAN.
 
-        <link rel="apple-touch-icon" sizes="180x180"
-            href="/images/icons/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32"
-            href="/images/icons/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16"
-            href="/images/icons/favicon-16x16.png">
-        <link rel="manifest" href="/images/icons/site.webmanifest">
-        <link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg"
-            color="#5bbad5">
-        <link rel="shortcut icon" href="/images/icons/favicon.ico">
-        <meta name="msapplication-TileColor" content="#00aba9">
-        <meta name="msapplication-config"
-            content="/images/icons/browserconfig.xml">
-        <meta name="theme-color" content="#ffffff">
+## Publications
 
-        <style>
-        li {
-            margin-bottom: 8px;
-        }
-    </style>
+### Conference Proceedings
 
-        <title>Chae Young Lee</title>
-    </head>
-    <!--E6E7EB-->
-    <body style="background-color:#ffffff;font-family:Open Sans,sans-serif;">
-        <div class="container" id="main-content">
-            <div class="row">
-                <div
-                    class="offset-lg-2 col-lg-8 offset-md-1 col-md-10 col-sm-12">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <h1 id="chaeyoung-lee">Chae Young Lee (이채영)</h1>
-                            <div class="lead">
-                                Ph.D. Candidate, Computer Science<br />
-                                Stanford University<br />
-                                <small>
-                                    [<a
-                                        href="mailto:chae@stanford.edu">email</a>]
-                                    [<a
-                                        href="https://www.linkedin.com/in/cylee-cs/">linkedin</a>]
-                                    [<a
-                                        href="https://github.com/chaeyoung-lee">github</a>]
-                                </small>
-                            </div>
-                            <p>
-                                [<a href='#publications'>publications</a>]
-                                [<a href="/assets/cv.pdf">CV</a>]
-                                <!-- <a href="#teaching">Teaching</a> | -->
-                                <!-- <a href='/fellowships'>Fellowships &amp; Awards</a></p> -->
-                            </div>
-                            <!-- col-md-8 -->
-                            <div class="d-none d-md-block col-md-4"
-                                id="portraits">
-                                <img src="/assets/headshot.jpg"
-                                    alt="Headshot photo of Chae Young"
-                                    class="col-md-12" />
-                            </div>
-                            <!-- col-md-4 -->
-                        </div>
-                        <!-- first row -->
+- [CLEval: Character-Level Evaluation for Text Detection and Recognition Task](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html)  
+  Youngmin Baek, Daehyun Nam, Sungrae Park, Junyeop Lee, Seung Shin, Jeonghun Baek, **Chae Young Lee**, Hwalsuk Lee  
+  *CVPR Text and Documents in the Deep Learning Era Workshop*, 2020  
+  [Code](https://github.com/clovaai/CLEval)
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <hr />
-                                <h3 id="about">About me</h3>
-                                <p>
-                                    I am a second year Ph.D. candidate in Computer
-                                    Science at Stanford co-advised by Professors
-                                    <a
-                                        href="https://www.zerinakapetanovic.com/">Zerina
-                                        Kapetanovic</a> and <a
-                                        href="https://www.sara-achour.me/">Sara
-                                        Achour</a>.
-                                    My research interest is in energy-efficient
-                                    machine learning and mobile embedded
-                                    systems.
-                                </p>
-                                Before Stanford, I received a B.S. in Electrical
-                                Engineering & Computer Science at Yale,
-                                where I worked with Professor <a
-                                    href="http://www.linzhong.org/">Lin
-                                    Zhong</a> on 5G Cloud RAN.
-                                <p>
+- [TedEval: A Fair Evaluation Metric for Scene Text Detectors](https://arxiv.org/abs/1907.01227)  
+  **Chae Young Lee**, Youngmin Baek, Hwalsuk Lee  
+  *ICDAR Workshop on Industrial Applications of Document Analysis and Recognition*, 2019  
+  [Code](https://github.com/clovaai/TedEval) | [Slides](https://docs.google.com/presentation/d/1EFK_WjpdLExZVDPt4C7yCcxjpXNvIyAOL9zUnKx1VoY/edit#slide=id.p1)
 
-                                </p>
-                            </div>
-                        </div>
+- [Conditional WaveGAN](https://arxiv.org/abs/1809.10636)  
+  **Chae Young Lee**, Anoop Toffy, Gue Jun Jung, Woo-Jin Han  
+  *TensorFlow Korea Conference*, 2018  
+  [Code](https://github.com/chaeyoung-lee/cwavegan) | [Slides](https://github.com/chaeyoung-lee/cwavegan/blob/master/final_presentation/CWaveGAN_DLJeju18ppt_Anoop_CY.pdf) | [Blog](https://medium.com/@chaeyoung.lee/conditional-wavegan-explained-1c2a87e8d84d)
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <hr />
-                                <h3 id="publications"><a
-                                        name="publications"></a>Publications</h3>
+### Other Publications
 
-                                <h5> Conference Proceedings </h5>
-                                <ul>
-<!--                                     <li>
-                                        Inferential Statistics-Based Early Termination for Hyperdimensional Computing<br>
-                                        Luke (Pu) Yi, Yifan Yang, <b>Chae Young Lee</b>, Sara Achour
-                                        <br>
-                                        <i>Under Review</i>
-                                        <br>
-                                    </li>
-                                    
-                                    <li>
-                                        HyperCam: Low-power Onboard Computer
-                                        Vision for IoT Cameras<br>
-                                        <b>Chae Young Lee</b>, Maxwell Fite,
-                                        Tejus Rao, Luke (Pu) Yi, Sara Achour,
-                                        Zerina Kapetanovic
-                                        <br>
-                                        <i>Under Review</i>
-                                        <br>
-                                    </li> -->
-
-                                    <li>
-                                        <a
-                                            href="https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Baek_CLEval_Character-Level_Evaluation_for_Text_Detection_and_Recognition_Tasks_CVPRW_2020_paper.html">CLEval:
-                                            Character-Level Evaluation for Text
-                                            Detection and Recognition
-                                            Task</a><br>
-                                        Youngmin Baek, Daehyun Nam, Sungrae
-                                        Park, Junyeop Lee, Seung Shin, Jeonghun
-                                        Baek, <b>Chae Young Lee</b>, Hwalsuk Lee
-                                        <br>
-                                        <i>CVPR Text and Documents in the Deep
-                                            Learning Era Workshop</i>, 2020
-                                        <br>
-                                        [<a
-                                            href="https://github.com/clovaai/CLEval">code</a>]
-                                        <br>
-                                    </li>
-
-                                    <li>
-                                        <a
-                                            href="https://arxiv.org/abs/1907.01227">TedEval:
-                                            A Fair Evaluation Metric for Scene
-                                            Text Detectors</a><br>
-                                        <b>Chae Young Lee</b>, Youngmin Baek,
-                                        Hwalsuk Lee
-                                        <br>
-                                        <i>ICDAR Workshop on Industrial
-                                            Applications of Document Analysis
-                                            and Recognition</i>, 2019
-                                        <br>
-                                        [<a
-                                            href="https://github.com/clovaai/TedEval">code</a>]
-                                        [<a
-                                            href="https://docs.google.com/presentation/d/1EFK_WjpdLExZVDPt4C7yCcxjpXNvIyAOL9zUnKx1VoY/edit#slide=id.p1">slides</a>]
-                                        <br>
-                                    </li>
-
-                                    <li>
-                                        <a
-                                            href="https://arxiv.org/abs/1809.10636">Conditional
-                                            WaveGAN</a><br>
-                                        <b>Chae Young Lee</b>, Anoop Toffy, Gue
-                                        Jun Jung, Woo-Jin Han
-                                        <br>
-                                        <i>TensorFlow Korea Conference</i>, 2018
-                                        <br>
-                                        [<a
-                                            href="https://github.com/chaeyoung-lee/cwavegan">code</a>]
-                                        [<a
-                                            href="https://github.com/chaeyoung-lee/cwavegan/blob/master/final_presentation/CWaveGAN_DLJeju18ppt_Anoop_CY.pdf">slides</a>]
-                                        [<a
-                                            href="https://medium.com/@chaeyoung.lee/conditional-wavegan-explained-1c2a87e8d84d">blog</a>]
-                                        <br>
-                                    </li>
-
-                                </ul>
-                                <h5> Other Publications </h5>
-                                <ul>
-                                    <li>
-                                        Diagnosis Method and Apparatus for
-                                        Neurodegenerative Diseases Based on Deep
-                                        Learning Network<br>
-                                        <b>Chae Young Lee</b>
-                                        <br>
-                                        <i>Korea Patent (KR 1019363020000)</i>,
-                                        2019
-                                    </li>
-
-                                </ul>
-                            </div> <!-- col-md-14 -->
-                        </div>
-
-                        <script src="/js/onload.js"></script>
-
-                    </body>
-                </html>
-
+- Diagnosis Method and Apparatus for Neurodegenerative Diseases Based on Deep Learning Network  
+  **Chae Young Lee**  
+  *Korea Patent (KR 1019363020000)*, 2019
