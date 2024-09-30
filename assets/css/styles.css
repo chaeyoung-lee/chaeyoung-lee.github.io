@@ -1,0 +1,64 @@
+/* Styling for the Blog Posts Listing Page */
+
+/* Blog Post Container */
+.blog-posts-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* Blog Post Card */
+.blog-post-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    transition: box-shadow 0.3s ease;
+}
+
+.blog-post-card:hover {
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.blog-post-card h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.blog-post-card h2 a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+.blog-post-card h2 a:hover {
+    color: #2980b9;
+}
+
+.blog-post-card .post-meta {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.blog-post-card p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* "Read More" Button */
+.read-more {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+}
+
+.read-more:hover {
+    background-color: #2980b9;
+}
