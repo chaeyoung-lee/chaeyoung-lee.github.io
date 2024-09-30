@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-<!-- Headshot floats to the right -->
-<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 150px; border-radius: 10%; float: right; margin-left: 20px;">
+<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; float: right; margin-left: 20px;">
 
 # Chae Young Lee (이채영)
 
