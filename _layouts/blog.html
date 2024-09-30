@@ -9,7 +9,13 @@
     <body>
         <header>
             <nav>
-                <!-- Add your navigation links here -->
+                <ul>
+                    {% for link in site.minima.navigation %}
+                    <li>
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
             </nav>
         </header>
 
