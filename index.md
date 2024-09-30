@@ -3,15 +3,15 @@ layout: default
 title: Home
 ---
 
+<!-- Headshot floats to the right -->
+<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 150px; border-radius: 10%; float: right; margin-left: 20px;">
+
 # Chae Young Lee (이채영)
 
 Ph.D. Candidate, Computer Science  
 Stanford University  
 [Email](mailto:chae@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/cylee-cs/) | [GitHub](https://github.com/chaeyoung-lee)
 [Publications](#publications) | [CV](/assets/cv.pdf)
-
-<!-- Headshot floats to the right -->
-<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 150px; border-radius: 10%; float: right; margin-left: 20px;">
 
 
 ## About Me
