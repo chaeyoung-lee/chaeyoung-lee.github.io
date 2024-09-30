@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
 <img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; float: left; margin-right: 20px;">
