@@ -5,7 +5,7 @@ title: Home
 
 # Chae Young Lee (이채영)
 
-<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; margin-left: 20px;">
+<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; float: left; margin-left: 20px;">
 
 Ph.D. Candidate, Computer Science  
 Stanford University  
