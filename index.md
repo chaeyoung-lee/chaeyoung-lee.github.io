@@ -9,13 +9,10 @@ title: About
   <div>
     <p><strong>Ph.D. Candidate, Computer Science</strong></p>
     <p>Stanford University</p>
+    <p>chae {at} stanford {dot} edu</p>
     <p>
-      <a href="mailto:chae@stanford.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/cylee-cs/">LinkedIn</a> | 
-      <a href="https://github.com/chaeyoung-lee">GitHub</a>
-    </p>
-    <p>
-      <a href="#publications">Publications</a> | 
+      <a href="https://github.com/chaeyoung-lee">GitHub</a> |
       <a href="/assets/cv.pdf">CV</a>
     </p>
   </div>
