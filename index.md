@@ -13,11 +13,14 @@ Stanford University
 [Publications](#publications) | [CV](/assets/cv.pdf)
 
 
+
 ## About Me
 
 I am a second-year Ph.D. candidate in Computer Science at Stanford, co-advised by Professors [Zerina Kapetanovic](https://www.zerinakapetanovic.com/) and [Sara Achour](https://www.sara-achour.me/). My research interest is in energy-efficient machine learning and mobile embedded systems.
 
 Before Stanford, I received a B.S. in Electrical Engineering & Computer Science at Yale, where I worked with Professor [Lin Zhong](http://www.linzhong.org/) on 5G Cloud RAN.
+
+
 
 ## Publications
 
