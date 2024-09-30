@@ -7,6 +7,7 @@ title: About
   <img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; margin-right: 20px;">
 
   <div>
+    <p>
     <p><strong>Ph.D. Candidate, Computer Science</strong></p>
     <p>Stanford University</p>
     <p>chae {at} stanford {dot} edu</p>
