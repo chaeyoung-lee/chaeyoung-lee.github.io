@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; float: right; margin-left: 20px;">
-
 # Chae Young Lee (이채영)
+
+<img src="assets/headshot.jpg" alt="Headshot photo of Chae Young" style="width: 200px; border-radius: 10%; margin-left: 20px;">
 
 Ph.D. Candidate, Computer Science  
 Stanford University  
@@ -46,3 +46,8 @@ Before Stanford, I received a B.S. in Electrical Engineering & Computer Science 
 - Diagnosis Method and Apparatus for Neurodegenerative Diseases Based on Deep Learning Network  
   **Chae Young Lee**  
   *Korea Patent (KR 1019363020000)*, 2019
+
+<br>
+
+## Projects
+
