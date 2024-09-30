@@ -6,29 +6,24 @@ permalink: /teaching/
 
 ## Stanford University
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span>Course Planner, Embedded Systems</span>
-  <span>Summer, Fall 2024</span>
-</div>
+- Introduction to Embedded Systems
+  Course Planner
+  Summer, Fall 2024
 
 ## Yale University
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span>Teaching Assistant, Introduction to Electronics</span>
-  <span>Spring 2022</span>
-</div>
+- Introduction to Electronics (EENG 200)
+  Teaching Assistant
+  Spring 2022
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span>Teaching Assistant, Deep Learning Theory and Applications</span>
-  <span>Spring 2022</span>
-</div>
+- Deep Learning Theory and Applications (CPSC 452)
+  Teaching Assistant
+  Spring 2022
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span>Teaching Assistant, Systems Programming and Computer Organization</span>
-  <span>Fall 2021</span>
-</div>
+- Systems Programming and Computer Organization (CPSC 323)
+  Teaching Assistant
+  Fall 2021
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span>Teaching Assistant, Data Structures and Programming Techniques</span>
-  <span>Fall 2020</span>
-</div>
+- Data Structures and Programming Techniques (CPSC 223)
+  Teaching Assistant
+  Fall 2020
