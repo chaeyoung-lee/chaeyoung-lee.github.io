@@ -4,3 +4,11 @@ description: Personal Website
 baseurl: ""
 url: "https://chaeyoung-lee.github.io"
 theme: minima
+
+# Add navigation links
+minima:
+  navigation:
+    - title: "About"
+      url: "/"
+    - title: "Research"
+      url: "/research/"
