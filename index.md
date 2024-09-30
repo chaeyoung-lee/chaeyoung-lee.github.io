@@ -12,7 +12,7 @@ Stanford University
 [Email](mailto:chae@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/cylee-cs/) | [GitHub](https://github.com/chaeyoung-lee)
 [Publications](#publications) | [CV](/assets/cv.pdf)
 
-
+<br>
 
 ## About Me
 
@@ -20,7 +20,7 @@ I am a second-year Ph.D. candidate in Computer Science at Stanford, co-advised b
 
 Before Stanford, I received a B.S. in Electrical Engineering & Computer Science at Yale, where I worked with Professor [Lin Zhong](http://www.linzhong.org/) on 5G Cloud RAN.
 
-
+<br>
 
 ## Publications
 
