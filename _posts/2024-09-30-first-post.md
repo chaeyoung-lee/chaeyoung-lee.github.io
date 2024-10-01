@@ -30,9 +30,9 @@ First, let’s take a look at what the Time-of-Flight (ToF) sensor does. A ToF s
 ### Pinout
 On page 33 of the board's user manual (UM2839, link is above), Table 24 describes the pinout of the Arduino connector located at the back of the discovery board. The board's I2C pins are CN13-9 (I2C1_SDA) and CN13-10 (I2C1_SCL). Find the board's 3V3 output at CN17-4 and the ground at CN17-6. Here is the photo of the pinout.
 
-![pinout](assets/blog/1/pinout.jpeg)
+![pinout](/assets/blog/1/pinout.jpeg)
 
 ### Code
 Let's enable I2C1 on the microcontroller. The pin number of CN13-9 and CN13-10 is PB9 and PB8, respectively. On the STM32CubeIDE, enable I2C1 by setting it in I2C mode and change the GPIO pins accordingly.
 
-![alt text](assets/blog/1/i2c.png)
+![alt text](/assets/blog/1/i2c.png)
