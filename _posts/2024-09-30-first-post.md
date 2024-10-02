@@ -36,3 +36,44 @@ On page 33 of the board's user manual (UM2839, link is above), Table 24 describe
 Let's enable I2C1 on the microcontroller. The pin number of CN13-9 and CN13-10 is PB9 and PB8, respectively. On the STM32CubeIDE, enable I2C1 by setting it in I2C mode and change the GPIO pins accordingly.
 
 ![alt text](/assets/blog/1/i2c.png)
+
+The first step in setting up a peripheral using I2C is to read the peripheral's reference registers to validate the connection. That is, the peripheral comes with some reference registers that hold values such as model ID and module type. This particular ToF sensor has three reference registers:
+
+| Register name | Index  | Value |
+|---------------|--------|-------|
+| Model ID      | 0x010F | 0xEA  |
+| Module Type   | 0x0110 | 0xCC  |
+| Mask Revision | 0x0111 | 0x10  |
+
+Read the value of each index and validate the connection. An example code for this is
+
+```C
+// Function to read 1 byte of data from a specific 16-bit register
+uint8_t VL53L1X_ReadRegister(uint16_t reg, uint8_t *data)
+{
+  HAL_StatusTypeDef status;
+  status = HAL_I2C_Mem_Read(&hi2c1, VL53L1X_I2C_ADDR | 0x01, reg, I2C_MEMADD_SIZE_16BIT, data, 1, HAL_MAX_DELAY);
+  if (status != HAL_OK)
+  {
+    return 1; // Return error if the data read failed
+  }
+  return 0;
+}
+
+// Function to initialize VL53L1X sensor
+uint8_t VL53L1X_Init(void)
+{
+  // Read the Model ID, Module Type, and Mask Revision
+  uint8_t model_id = 0;
+  if (VL53L1X_ReadRegister(VL53L1X_REG_IDENTIFICATION__MODEL_ID, &model_id) != 0) {
+    return 1; // Error: I2C error
+  }
+
+  // Check if the model ID is correct
+  if (model_id != 0xEA)
+  {
+    return 1; // Error: Wrong sensor ID or type
+  }
+  ...
+}
+```
