@@ -12,8 +12,7 @@ In this post, I'll walk you through how to connect peripherals to the B-U585I-IO
 
 This tutorial will provide step-by-step instructions on how to connect several peripherals, including:
 - Adafruit VL53L1X Time-of-Flight Sensor
-- MB1379 RGB Camera
-- HM01B0 Grayscale Camera
+- Analog Sensors
 
 Over time, I will expand this list. However, by the end of this guide, you’ll be familiar with connecting peripherals using common communication protocols like I2C and SPI, letting you connect additional sensors not covered here.
 
@@ -75,5 +74,23 @@ uint8_t VL53L1X_Init(void)
     return 1; // Error: Wrong sensor ID or type
   }
   ...
+}
+```
+
+## Analog Sensors
+
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/19c0b6f7-57c0-47b8-933e-8471badcd39f">
+
+```C
+uint16_t raw;
+while(1) {
+  // Get ADC value
+  HAL_ADC_Start(&hadc4);
+  HAL_ADC_PollForConversion(&hadc4, HAL_MAX_DELAY);
+  raw = HAL_ADC_GetValue(&hadc4);
+
+  // Convert to string and print
+  sprintf(message, "Sensor: %hu\r\n", raw);
+  HAL_UART_Transmit(&huart1, (uint8_t *)message, strlen(message), HAL_MAX_DELAY);
 }
 ```
