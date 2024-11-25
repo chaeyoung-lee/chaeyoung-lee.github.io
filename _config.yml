@@ -14,5 +14,5 @@ minima:
       url: "/research/"
     - title: "Teaching"
       url: "/teaching/"
-    - title: "Blog"
-      url: "/blog/"
+    # - title: "Blog"
+    #   url: "/blog/"
