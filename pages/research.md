@@ -6,6 +6,10 @@ permalink: /research/
 
 ## Publications
 
+- <span style="color: green;">Early Termination for Hyperdimensional Computing Using Inferential Statistics</span>  
+  Pu (Luke) Yi, Yifan Yang, **Chae Young Lee**, Sara Achour  
+  *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025
+
 - <span style="color: green;">CLEval: Character-Level Evaluation for Text Detection and Recognition Task</span>  
   Youngmin Baek, Daehyun Nam, Sungrae Park, Junyeop Lee, Seung Shin, Jeonghun Baek, **Chae Young Lee**, Hwalsuk Lee  
   *CVPR Text and Documents in the Deep Learning Era Workshop*, 2020  
