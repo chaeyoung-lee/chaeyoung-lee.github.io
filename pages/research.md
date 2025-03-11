@@ -12,7 +12,8 @@ permalink: /research/
 
 - HyperCam: Low-Power Onboard Computer Vision for IoT Cameras  
   **Chae Young Lee**, Pu (Luke) Yi, Maxwell Fite, Tejus Rao, Sara Achour, Zerina Kapetanovic  
-  *International Conference on Mobile Computing and Networking (MobiCom)*, 2025
+  *International Conference on Mobile Computing and Networking (MobiCom)*, 2025  
+  [Paper](https://arxiv.org/abs/2501.10547)
 
 - Early Termination for Hyperdimensional Computing Using Inferential Statistics  
   Pu (Luke) Yi, Yifan Yang, **Chae Young Lee**, Sara Achour  
