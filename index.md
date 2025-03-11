@@ -20,9 +20,9 @@ title: About
 </div>
 
 <p>
-I am a second-year Ph.D. candidate in Computer Science at Stanford, co-advised by Professors <a href="https://www.zerinakapetanovic.com/">Zerina Kapetanovic</a> and <a href="https://www.sara-achour.me/">Sara Achour</a>. My research interest is in energy-efficient machine learning and mobile embedded systems.
+I am a second-year Ph.D. candidate in Computer Science at Stanford, co-advised by Professors <a href="https://www.zerinakapetanovic.com/">Zerina Kapetanovic</a> and <a href="https://www.sara-achour.me/">Sara Achour</a>. My research focuses on optimizing machine learning systems for resource-constrained, battery-powered hardware and building real-world applications. Currently, I explore both neural networks and unconventional computing paradigms such as Hyperdimensional Computing (HDC).
 </p>
 
 <p>
-Before Stanford, I received a B.S. in Electrical Engineering & Computer Science at Yale, where I worked with Professor <a href="http://www.linzhong.org/">Lin Zhong</a> on 5G Cloud RAN.
+Before Stanford, I received a B.S. in Electrical Engineering & Computer Science at Yale, where I worked with Professor <a href="http://www.linzhong.org/">Lin Zhong</a> on mobile embedded systems and 5G Cloud RAN.
 </p>
