@@ -16,7 +16,8 @@ permalink: /research/
 
 - Early Termination for Hyperdimensional Computing Using Inferential Statistics  
   Pu (Luke) Yi, Yifan Yang, **Chae Young Lee**, Sara Achour  
-  *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025
+  *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2025  
+  [Paper](https://dl.acm.org/doi/10.1145/3669940.3707254)
 
 - CLEval: Character-Level Evaluation for Text Detection and Recognition Task  
   Youngmin Baek, Daehyun Nam, Sungrae Park, Junyeop Lee, Seung Shin, Jeonghun Baek, **Chae Young Lee**, Hwalsuk Lee  
