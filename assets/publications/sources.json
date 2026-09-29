@@ -1,0 +1,58 @@
+[
+  {
+    "file": "risingstar.webp",
+    "source": "slides/mobisys_risingstar.pdf",
+    "page": 6,
+    "alt": "Ultra-lightweight edge intelligence: power under 10 mW, memory under 100 KB, and compute under 100k CPU cycles",
+    "note": "Overview of power, memory, and compute constraints, cropped from slide 6 as requested."
+  },
+  {
+    "file": "hypercam-demo.webp",
+    "source": "papers/hypercam-demo.pdf",
+    "page": 2,
+    "alt": "Hardware and live face-detection display from the HyperCam demo",
+    "original_source": "https://stanford.edu/~chae/paper/hypercam-demo.pdf"
+  },
+  {
+    "file": "navhd.webp",
+    "source": "papers/navhd.pdf",
+    "page": 4,
+    "alt": "NavHD micro-robot hardware for indoor and real-world evaluation",
+    "original_source": "https://stanford.edu/~chae/paper/navhd.pdf"
+  },
+  {
+    "file": "hypercam.webp",
+    "source": "papers/hypercam.pdf",
+    "page": 4,
+    "alt": "HyperCam system overview showing the camera, training, and on-device inference",
+    "original_source": "https://stanford.edu/~chae/paper/hypercam.pdf"
+  },
+  {
+    "file": "omen.webp",
+    "source": "papers/omen.pdf",
+    "page": 4,
+    "alt": "Omen early-termination pipeline for hyperdimensional classification",
+    "original_source": "https://stanford.edu/~chae/paper/omen.pdf"
+  },
+  {
+    "file": "cleval.webp",
+    "source": "papers/cleval.pdf",
+    "page": 1,
+    "alt": "CLEval comparison of scene-text detection evaluation results",
+    "original_source": "https://stanford.edu/~chae/paper/cleval.pdf"
+  },
+  {
+    "file": "tedeval.webp",
+    "source": "papers/tedeval.pdf",
+    "page": 1,
+    "alt": "TedEval examples of text detection on signs",
+    "original_source": "https://stanford.edu/~chae/paper/tedeval.pdf"
+  },
+  {
+    "file": "cwavegan.webp",
+    "source": "papers/cwavegan.pdf",
+    "page": 3,
+    "alt": "Conditional WaveGAN diagram for generating audio from class labels",
+    "original_source": "https://stanford.edu/~chae/paper/cwavegan.pdf"
+  }
+]

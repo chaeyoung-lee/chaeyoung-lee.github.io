@@ -1,0 +1,68 @@
+[
+  {
+    "original_url": "https://stanford.edu/~chae/paper/cleval.pdf",
+    "path": "papers/cleval.pdf",
+    "bytes": 783438,
+    "sha256": "189e5c7ee96dba8578268ce5c81404a9943dbb9c0121962eec3cf8359d843aae"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/cwavegan.pdf",
+    "path": "papers/cwavegan.pdf",
+    "bytes": 404513,
+    "sha256": "ee9d16251199ce755483e8152443b9e7cbf17538d1d107c37d1584a0628fd1b0"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/hypercam-demo.pdf",
+    "path": "papers/hypercam-demo.pdf",
+    "bytes": 2743454,
+    "sha256": "50c475d77aaea876b893af86ed333a09fe3e7cc52a57c5c127babeadace5c827"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/hypercam.pdf",
+    "path": "papers/hypercam.pdf",
+    "bytes": 1186264,
+    "sha256": "7667f1d18143dc3e27b90d98c6bf5723bc86d5f2d84f32df29e5a78b7f3a8be8"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/hypercam_talk.pdf",
+    "path": "slides/hypercam_talk.pdf",
+    "bytes": 993187,
+    "sha256": "55fe687ebb7fdb4f4f685bbbdefab967d3dad9835e5ed77c2a1fddae0e5ef771"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/navhd.pdf",
+    "path": "papers/navhd.pdf",
+    "bytes": 4582372,
+    "sha256": "6896e016a1c1bee11e7248b1b600122a1f01795c79ac6fa4574eb339497da36d"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/navhd_talk.pdf",
+    "path": "slides/navhd_talk.pdf",
+    "bytes": 2036217,
+    "sha256": "2abeb37e9ecce67f6413fd8e8157e0ac47ce8f8369b82e11a1d99679aec04272"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/navhd_video.mp4",
+    "path": "videos/navhd_video.mp4",
+    "bytes": 1879944,
+    "sha256": "376975e4a7bebd461b73b48503f2a163b37e10df6011e8e3fc99804e07591360"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/omen.pdf",
+    "path": "papers/omen.pdf",
+    "bytes": 2028947,
+    "sha256": "87bbc6a543d107cd3576c2288134e531469b98ff8bb2afe48a5934be93dbd556"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/risingstar.pdf",
+    "path": "papers/risingstar.pdf",
+    "bytes": 382228,
+    "sha256": "5fc7f0414909b237473b60b54976973398be168cddf775ccf3fb6c3b1e4927e2"
+  },
+  {
+    "original_url": "https://stanford.edu/~chae/paper/tedeval.pdf",
+    "path": "papers/tedeval.pdf",
+    "bytes": 7364273,
+    "sha256": "58f596be519e7c4b4f57d19fb829b3d6c2a41ded06721a699620f2ae1cdf9b76"
+  }
+]
