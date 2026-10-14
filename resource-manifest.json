@@ -64,5 +64,11 @@
     "path": "papers/tedeval.pdf",
     "bytes": 7364273,
     "sha256": "58f596be519e7c4b4f57d19fb829b3d6c2a41ded06721a699620f2ae1cdf9b76"
+  },
+  {
+    "original_url": "https://arxiv.org/pdf/2610.14714v1",
+    "path": "papers/low-power-enough.pdf",
+    "bytes": 725210,
+    "sha256": "64bef41306d09c602374897bd60c169e38f6f7865be183afe4a3ec7cf49a5561"
   }
 ]
