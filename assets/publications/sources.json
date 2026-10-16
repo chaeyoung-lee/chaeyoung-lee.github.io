@@ -1,5 +1,11 @@
 [
   {
+    "file": "memento.webp",
+    "source": "https://arxiv.org/html/2610.19227v1/teaser.png",
+    "alt": "Memento reduces communication by referencing prior sensor observations in shared memory",
+    "note": "Figure 1 teaser from the arXiv HTML version, resized for the publication thumbnail."
+  },
+  {
     "file": "low-power-enough.webp",
     "source": "https://arxiv.org/html/2610.14714v1/teaser.png",
     "alt": "Camera-trap comparison showing how faster processing and smaller transmissions reduce energy use",
